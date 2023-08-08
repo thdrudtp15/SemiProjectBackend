@@ -1,1 +1,1 @@
-# SemiProjectBackend
+세미프로젝트 백엔드 저장소입니다.
